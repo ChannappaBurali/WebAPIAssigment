@@ -1,0 +1,6 @@
+namespace WebAPIAssigment.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
